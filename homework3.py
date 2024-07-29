@@ -2,7 +2,7 @@ name = 'Dima'
 print(name)
 age = 34
 print(age)
-new_age = age+1
-print(new_age)
-is_student = age < new_age
+age = age+1
+print(age)
+is_student = age >= 35
 print(is_student)
